@@ -1,4 +1,4 @@
-
+ 
 /* Your CSS Code here. */
 #job{
     height: 150px;
@@ -6,8 +6,8 @@
     background-color: #000000;
 
 }
-#job2{
-    background-color: rgb(255,255 ,255);;
-    margin-left: 32px;
+#p{
+     margin-left: 32px;
     padding: 10px;
+	text-color: white;
 }
